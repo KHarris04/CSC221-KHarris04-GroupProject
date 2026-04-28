@@ -8,4 +8,4 @@ __Project Description:__ Web Scraping project to gather stats from the top-selli
 
 __Webscrapped URL:__ https://en.wikipedia.org/wiki/List_of_best-selling_Sega_Genesis_games
 
-__Collaborator:__ Jensen Hopkins (jlhopkins3@my.waketech.edu)
+__Collaborator:__ WORKING SOLO
